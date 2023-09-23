@@ -1,4 +1,3 @@
-# django_hardcode
 Тестовое HardQode
 
 Запросы:
