@@ -1,6 +1,6 @@
 Тестовое HardQode
 
 Запросы:
-Get products
-Get lessons
+- Get products
+- Get lessons
 
